@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=6lockk" alt="6lockk" /></a> </p>
 
-- 🔭 I’m currently working on **Automated powershell scriping**
+- 🔭 I’m currently working on **Automated powershell scripting**
 
 - ⚙️ I’m currently learning **Python, C++, nextjs, Rust, C, Web Development, Nim,C#**
 
