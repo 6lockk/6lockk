@@ -1,6 +1,5 @@
 <h1 align="center">Greetings, Im 6lock</h1>
 <h3 align="center">Im one of those no lifers from the hood that codes 24/7 💯</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/zLMKS-EpuVwAAAAd/phonk.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=6lockk&label=Profile%20views&color=0e75b6&style=flat" alt="6lockk" /> </p>
 
