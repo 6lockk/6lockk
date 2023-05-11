@@ -31,7 +31,7 @@
 ## DISCORD
 <div align="center">
   <a href="https://discord.com/users/851370342957580328" targer="_blank" />
-    <img alt="DiscordProfile" src="https://lanyard.cnrad.dev/api/851370342957580328?theme=light&bg=f6f8fa" />
+    <img alt="DiscordProfile" src="https://lanyard.cnrad.dev/api/851370342957580328?theme=dark&bg=f6f8fa" />
   </a>
 </div>
 
