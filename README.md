@@ -28,4 +28,10 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/6lock"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="6lock" /></a></p><br><br>
 
+## DISCORD
+<div align="center">
+  <a href="https://discord.com/users/851370342957580328" targer="_blank" />
+    <img alt="DiscordProfile" src="https://lanyard.cnrad.dev/api/851370342957580328?theme=light&bg=f6f8fa" />
+  </a>
+</div>
 
